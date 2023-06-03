@@ -1,4 +1,4 @@
-package com.example.website;
+package com.lin.website;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
